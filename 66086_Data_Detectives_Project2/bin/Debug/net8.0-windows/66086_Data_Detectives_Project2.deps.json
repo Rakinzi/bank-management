@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "66086_Data_Detectives_Project2/1.0.0": {
+        "runtime": {
+          "66086_Data_Detectives_Project2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "66086_Data_Detectives_Project2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
