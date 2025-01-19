@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("66086_Data_Detectives_Project2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bc7ccd1a963dc0acfff1787613226ce0bca94bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("66086_Data_Detectives_Project2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("66086_Data_Detectives_Project2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

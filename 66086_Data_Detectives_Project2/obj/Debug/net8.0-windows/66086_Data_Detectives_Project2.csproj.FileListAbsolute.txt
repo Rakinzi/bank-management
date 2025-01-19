@@ -22,3 +22,28 @@ C:\Users\Silver\source\repos\66086_Data_Detectives_Project2\66086_Data_Detective
 C:\Users\Silver\source\repos\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.ShowStaff.resources
 C:\Users\Silver\source\repos\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.StaffControl.resources
 C:\Users\Silver\source\repos\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.Properties.Resources.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\bin\Debug\net8.0-windows\66086_Data_Detectives_Project2.exe
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\bin\Debug\net8.0-windows\66086_Data_Detectives_Project2.deps.json
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\bin\Debug\net8.0-windows\66086_Data_Detectives_Project2.runtimeconfig.json
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\bin\Debug\net8.0-windows\66086_Data_Detectives_Project2.dll
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\bin\Debug\net8.0-windows\66086_Data_Detectives_Project2.pdb
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.MainMenu.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.AddCustomer.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.ShowCustomer.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.EditCustomer.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.AccountControl.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.AddStaff.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.ShowStaff.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.StaffControl.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\_66086_Data_Detectives_Project2.Properties.Resources.resources
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.csproj.GenerateResource.cache
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.AssemblyInfoInputs.cache
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.AssemblyInfo.cs
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.csproj.CoreCompileInputs.cache
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.sourcelink.json
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.dll
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\refint\66086_Data_Detectives_Project2.dll
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.pdb
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\66086_Data_Detectives_Project2.genruntimeconfig.cache
+C:\Users\munashec\OneDrive - Dicomm McCann\Documents\C#\66086_Data_Detectives_Project2\66086_Data_Detectives_Project2\obj\Debug\net8.0-windows\ref\66086_Data_Detectives_Project2.dll
